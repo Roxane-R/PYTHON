@@ -1,7 +1,7 @@
 # 🌟 P6 - Optimisez la gestion & nettoyez les données du stock d'une boutique
 
 ## 📝 Description brève du projet
-Bottleneck, une société d'e-commerce de produits spiritueux a besoin d'aide pour analyser les éléments de différentes sources de données.
+Bottleneck, une société d'e-commerce de produits spiritueux, a besoin d'aide pour analyser les éléments de différentes sources de données.
 
 Les objectifs sont :
 - Nettoyer la base de données : traiter les données abbérentes ou manquantes
@@ -32,7 +32,7 @@ Les livrables de ce projet incluent :
 # 🌟 P8 - Analysez l’évolution des prix de l’immobilier avec Python
 
 ## 📝 Description brève du projet
-Les Plus Beaux Logis de Paris, une société dans le secteur de l'immobilier souhaite avoir une analyse du marché immobilier parisien.
+Les Plus Beaux Logis de Paris, une société dans le secteur de l'immobilier, souhaite avoir une analyse du marché immobilier parisien.
 
 Les objectifs sont :
 - Analyser le marché de l'immobilier
