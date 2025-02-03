@@ -2,6 +2,7 @@
 
 ## 📝 Description brève du projet
 Bottleneck, une société d'e-commerce de produits spiritueux a besoin d'aide pour analyser les éléments de différentes sources de données.
+
 Les objectifs sont :
 - Nettoyer la base de données : traiter les données abbérentes ou manquantes
 - Réaliser une analyse sur la base de données nettoyée : analyse du prix, chiffre d'affaires, etc.
@@ -32,6 +33,7 @@ Les livrables de ce projet incluent :
 
 ## 📝 Description brève du projet
 Les Plus Beaux Logis de Paris, une société dans le secteur de l'immobilier souhaite avoir une analyse du marché immobilier parisien.
+
 Les objectifs sont :
 - Analyser le marché de l'immobilier
 - Prédire les valeurs foncières sur l'année N+1
