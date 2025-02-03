@@ -8,7 +8,7 @@ Les objectifs sont :
 - Réaliser une analyse sur la base de données nettoyée : analyse du prix, chiffre d'affaires, etc.
 ---
 ## 🧰 Outils et technologies utilisés
-- **Langages** : Python
+- **Langage** : Python
 - **Bibliothèques** : Pandas, Numpy, Seaborn, Matplotlib
 - **Statistiques** : Z-index, Intervalle interquartile, Pareto
 - **Autre outil** : Notebook Jupyter
@@ -19,7 +19,7 @@ Les objectifs sont :
 - **Résilience** : Gérer les retours et ajuster mon travail en conséquence
 ---
 ## 🔍 Compétences techniques développées
-- Exploration et analyse de données avec le langage Python et des librairies associées
+- Exploration, analyse univariée et multivariée de données avec le langage Python et des librairies associées
 - Création de visualisations pertinentes pour illustrer les résultats
 - Capacité à rédiger un rapport clair donnant des recommandations efficaces
 ---
@@ -40,7 +40,7 @@ Les objectifs sont :
 - Classer les catégories de logement (appartement ou locaux commerciaux)
 ---
 ## 🧰 Outils et technologies utilisés
-- **Langages** : Python pour les alorithmes de modélisation
+- **Langage** : Python pour les alorithmes de modélisation
 - **Bibliothèques** : Pandas, Numpy, Seaborn, Matplotlib
 - **Statistiques** : Coefficient de Pearson, Régression linéaire, Clustering
 - **Autre outil** : Notebook Jupyter
