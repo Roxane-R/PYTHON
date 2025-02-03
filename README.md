@@ -11,7 +11,7 @@ Les objectifs sont :
 - **Langages** : Python
 - **Bibliothèques** : Pandas, Numpy, Seaborn, Matplotlib
 - **Statistiques** : Z-index, Intervalle interquartile, Pareto
-- **Autre outils** : Notebook Jupyter
+- **Autre outil** : Notebook Jupyter
 ---
 ## 🧠 Soft skills mobilisées
 - **Esprit critique** : Évaluer les informations et conséquences des données
@@ -43,7 +43,7 @@ Les objectifs sont :
 - **Langages** : Python pour les alorithmes de modélisation
 - **Bibliothèques** : Pandas, Numpy, Seaborn, Matplotlib
 - **Statistiques** : Coefficient de Pearson, Régression linéaire, Clustering
-- **Autre outils** : Notebook Jupyter
+- **Autre outil** : Notebook Jupyter
 ---
 ## 🧠 Soft skills mobilisées
 - **Collaboration** : Travailler avec des collègues pour atteindre des objectif commun
