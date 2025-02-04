@@ -1,11 +1,11 @@
 # 🌟 P6 - Optimisez la gestion & nettoyez les données du stock d'une boutique
 
 ## 📝 Description brève du projet
-Bottleneck, une société d'e-commerce de produits spiritueux, a besoin d'aide pour analyser les éléments de différentes sources de données.
+Bottleneck, une entreprise e-commerce spécialisée dans la vente de spiritueux, a besoin d'aide pour fiabiliser ses données provenant de différentes sources.
 
 Les objectifs sont :
-- Nettoyer la base de données : traiter les données abbérentes ou manquantes
-- Réaliser une analyse sur la base de données nettoyée : analyse du prix, chiffre d'affaires, etc.
+- Nettoyer la base de données : traiter les valeurs aberrantes et gérer les données manquantes
+- Analyser les données nettoyées : étude des prix, du chiffre d'affaires et des tendances de vente
 ---
 ## 🧰 Outils et technologies utilisés
 - **Langage** : Python
@@ -32,21 +32,21 @@ Les livrables de ce projet incluent :
 # 🌟 P8 - Analysez l’évolution des prix de l’immobilier avec Python
 
 ## 📝 Description brève du projet
-Les Plus Beaux Logis de Paris, une société dans le secteur de l'immobilier, souhaite avoir une analyse du marché immobilier parisien.
+Les Plus Beaux Logis de Paris, une société dans le secteur de l'immobilier, souhaite obtenir une analyse approfondie du marché immobilier parisien afin d’anticiper les évolutions des prix.
 
 Les objectifs sont :
-- Analyser le marché de l'immobilier
-- Prédire les valeurs foncières sur l'année N+1
-- Classer les catégories de logement (appartement ou locaux commerciaux)
+- Étudier les tendances du marché immobilier : analyse des prix, des transactions et des facteurs influents
+- Prédire l’évolution des valeurs foncières sur l'année N+1 à l’aide de modèles de machine learning
+- Classifier les biens immobiliers (appartements ou locaux commerciaux) en fonction de leurs caractéristiques
 ---
 ## 🧰 Outils et technologies utilisés
-- **Langage** : Python pour les alorithmes de modélisation
+- **Langage** : Python pour les algorithmes de modélisation
 - **Bibliothèques** : Pandas, Numpy, Seaborn, Matplotlib
 - **Statistiques** : Coefficient de Pearson, Régression linéaire, Clustering
 - **Autre outil** : Notebook Jupyter
 ---
 ## 🧠 Soft skills mobilisées
-- **Collaboration** : Travailler avec des collègues pour atteindre des objectif commun
+- **Collaboration** : Travailler avec des collègues pour atteindre des objectifs communs
 - **Résolution de problèmes** : Analyser des situations complexes et proposer des solutions
 ---
 ## 🔍 Compétences techniques développées
